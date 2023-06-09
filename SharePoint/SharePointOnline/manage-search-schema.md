@@ -401,7 +401,7 @@ The following table provides an overview of the default unused managed propertie
 
 \*\* Language neutral word breaker
 
-\*\*\* Complete Matching
+\*\*\* Complete Matching (Word Breaker is disabled)
 
 ## Hide documents from Delve
 
